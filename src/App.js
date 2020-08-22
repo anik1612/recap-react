@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import img from '../src/images/anik.jpg'
-import img1 from '../src/images/sathi.jpg'
-import img2 from '../src/images/Anik Sarker.jpg'
+import img from '../src/images/profile-img-1.jpg'
+import img1 from '../src/images/profile-img-2.jpg'
+import img2 from '../src/images/profile-img-3.jpg'
 import './App.css';
 
 function App() {
